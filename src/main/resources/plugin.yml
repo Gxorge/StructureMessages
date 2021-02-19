@@ -1,0 +1,5 @@
+name: StructureMessages
+main: moe.gabriella.structuremessages.SMPlugin
+version: "1.1"
+author: "Gabriella"
+api-version: 1.16
